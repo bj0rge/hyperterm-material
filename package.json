@@ -1,8 +1,8 @@
 {
-  "name": "hyperterm-material",
+  "name": "hyperterm-material-bjorge",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/dperrera/hyperterm-material"
+    "url" : "https://github.com/bjorge/hyperterm-material-bjorge"
   },
   "version": "0.1.8",
   "description": "A material inspired theme for Hyper.",
@@ -12,9 +12,9 @@
     "hyper"
   ],
   "author": {
-    "name": "Dan Perrera",
-    "email": "dan@foredesign.co",
-    "url": "https://foredesign.co"
+    "name": "Bastien Jorge",
+    "email": "contact@bjorge.xyz",
+    "url": "https://bjorge.xyz"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
