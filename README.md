@@ -9,3 +9,6 @@ Add `hyperterm-material` to your plugins list, like so:
 ```
 plugins: [`hyperterm-material`]
 ```
+
+## Diff from the fork
+Replace Green and Yellow colors for a better integration into agnoster theme
