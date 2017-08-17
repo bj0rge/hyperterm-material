@@ -5,9 +5,9 @@ A material design inspired theme plugin for [Hyper](https://hyper.is/).
 ![Screenshot](/images/hyperterm-material.png)
 
 ## Install
-Add `hyperterm-material` to your plugins list, like so:
+Add `hyperterm-material-bjorge` to your plugins list, like so:
 ```
-plugins: [`hyperterm-material`]
+plugins: [`hyperterm-material-bjorge`]
 ```
 
 ## Diff from the fork
